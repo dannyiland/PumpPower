@@ -1,0 +1,3 @@
+# Time in UTC... add 7 hours!
+38 14,23 * * * /home/pi/garden/PumpPower/poweron.py
+41 14,23 * * * /home/pi/garden/PumpPower/poweroff.py
